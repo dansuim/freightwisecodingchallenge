@@ -1,5 +1,6 @@
 #GitIgnore API key file
 testup.html
+test-reference.html
 node_modules/
 package.json
 package-lock.json
